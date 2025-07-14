@@ -1,0 +1,7 @@
+NAME=PdLinuXOS
+ID=pdlinuxos
+PRETTY_NAME="PdLinuXOS KDE Edition"
+VERSION="2025"
+HOME_URL="https://p30developer.ir"
+SUPPORT_URL="https://p30developer.ir/support"
+BUG_REPORT_URL="https://p30developer.ir/issues"
