@@ -15,6 +15,8 @@ source=(
     'config.nu'
     '.bash_profile'
 )
+conflicts=('lsb-release')
+provides=('lsb-release')
 sha256sums=('SKIP' 'SKIP' 'SKIP' 'SKIP' 'SKIP' 'SKIP' 'SKIP')
 
 package() {
